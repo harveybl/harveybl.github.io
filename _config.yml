@@ -1,5 +1,0 @@
-# Tell Jekyll to publish dotfile paths. By default Jekyll skips anything
-# starting with `.` or `_`, which would silently drop our
-# .well-known/appspecific/com.tesla.3p.public-key.pem file.
-include:
-  - .well-known
