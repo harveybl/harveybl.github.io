@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["7GCG6NK3W3.com.safebudget.app"],
+        "components": [
+          { "/": "/safebudget/plaid-oauth*", "comment": "Plaid OAuth redirect for SAFE Budget" }
+        ]
+      }
+    ]
+  }
+}
